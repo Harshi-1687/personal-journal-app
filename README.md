@@ -15,17 +15,12 @@ A full-stack **Personal Journal Web App** built using **React (Vite)**, **Node.j
 🎨 Clean, responsive UI with Tailwind CSS and color-coded moods  
 🔐 User authentication with JWT tokens  
 
----
-
 ## 🧩 Tech Stack
 
+Frontend -> React (Vite), Tailwind CSS
+Backend -> Node.js, Express
+Database -> MongoDB Atlas
+Auth -> JSON Web Tokens (JWT)
 
-## Frontend -> React (Vite), Tailwind CSS
-## Backend -> Node.js, Express
-## Database -> MongoDB Atlas
-## Auth -> JSON Web Tokens (JWT)
 
----
-
-## Built with ❤️ using the MERN Stack.
-**
+Built with ❤️ using the MERN Stack.
