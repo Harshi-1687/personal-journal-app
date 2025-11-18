@@ -17,10 +17,13 @@ A full-stack **Personal Journal Web App** built using **React (Vite)**, **Node.j
 
 ## 🧩 Tech Stack
 
-Frontend -> React (Vite), Tailwind CSS
-Backend -> Node.js, Express
-Database -> MongoDB Atlas
-Auth -> JSON Web Tokens (JWT)
-
+| Category | Technologies |
+|-----------|--------------|
+| **Frontend** | React (Vite), Tailwind CSS |
+| **Backend** | Node.js, Express |
+| **Database** | MongoDB Atlas |
+| **Auth** | JSON Web Tokens (JWT) |
+| **Hosting** | (Optional: Vercel + Render) |
 
 Built with ❤️ using the MERN Stack.
+
